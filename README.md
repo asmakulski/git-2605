@@ -1,3 +1,3 @@
 pierwsza linijka na master
 
-druga zmiana na master
+zmiana przed reset --hard 
